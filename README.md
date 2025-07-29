@@ -38,6 +38,7 @@ cd Devil_Dos
 Run the tool using Python:
 
 ```bash
+chmod +x Devil_dos.py
 python3 Devil_dos.py
 ```
 
