@@ -30,7 +30,7 @@ Devil Dos is a lightweight, terminal-based DoS (Denial of Service) attack simula
 Clone the repository and navigate to the project folder:
 
 ```bash
-https://github.com/dieh4cker/Devil_Dos.git
+git clone https://github.com/dieh4cker/Devil_Dos.git
 cd Devil_Dos
 ```
 
