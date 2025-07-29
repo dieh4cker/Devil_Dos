@@ -31,18 +31,15 @@ Clone the repository and navigate to the project folder:
 
 ```bash
 git clone https://github.com/deih4cker/Devil_Dos.git
-cd devil-dos-tool
+cd Devil_Dos
 ```
 
 ## How to Run
 Run the tool using Python:
 
 ```bash
-python Devil_Dos/Devil_dos.py
+python3 Devil_dos.py
 ```
-
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/yourusername/yourrepo/main/screenshot.png)
 
 ## Author
 - **Dieh4cker**
